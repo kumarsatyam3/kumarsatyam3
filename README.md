@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Kumar Satyam! 👋
 
-<!--
-**kumarsatyam3/kumarsatyam3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Software Engineer | Java Full Stack Developer
+I am an experienced Software Engineer with 3.5+ years of IT experience, specializing in architecting robust backend systems using **Java & Spring Boot** and dynamic user interfaces using **React.js**.
 
-Here are some ideas to get you started:
+- 💻 Currently building scalable microservices and policy engines.
+- 🛠️ Deep expertise in Relational Databases (MySQL) and Data Persistence (Hibernate/JPA).
+- 🎯 Passionate about clean code, SOLID principles, and system optimization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Languages:** Java (8/11), JavaScript (ES6), SQL, HTML5, CSS3
+- **Backend Frameworks:** Spring Boot, Spring Cloud (Eureka, API Gateway), Spring Security, REST APIs
+- **Data Layer:** Spring Data JPA, Hibernate, MySQL, PostgreSQL
+- **Frontend Frameworks:** React.js, Redux, Axios
+- **DevOps & Tools:** Git, GitHub, Maven, Postman, VS Code
+
+### 📊 GitHub Stats
+![Kumar's GitHub Stats](https://vercel.app)
+![Top Langs](https://vercel.app)
